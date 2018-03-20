@@ -8,12 +8,14 @@ package com.lab8;
 /**
  *
  * @author opeol
+ * @author Opeyemi
  */
-/*Course: CS 2302 LAB: 8, MAIN CLASS
+/*MAIN CLASS
 *Program Title: A program that implement Dynamic Programming
 *AUTHOR: OLATUNJI, OPEYEMI MSc IT
 *INSTRUCTOR: Prof Olac Fuentes
 *TA: Zakia Kadri, Adul Kader
+
 *LAST DATE OF MODIFICATION: April 28 2017, 11.15pm
  */
 
